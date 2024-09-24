@@ -1,4 +1,4 @@
-# BoardGameApp
+# BoardgameListingWebApp
 
 ## Description
 
@@ -50,7 +50,4 @@ This web application displays lists of board games and their reviews. While anyo
 4. To use initial user data, use the following credentials.
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
-5. You can also sign-up as a new user and customize your role to play with the application! ðŸ˜Š
-
-
-Source : https://github.com/jaiswaladi246/Boardgame
+5. You can also sign-up as a new user and customize your role to play with the application! 😊
